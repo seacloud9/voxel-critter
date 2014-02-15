@@ -28,7 +28,7 @@
     "dependencies": {
         "lsb": "~0.1.0",
         "voxel-engine": "~0.20.0",
-        "voxel-creature": "git://github.com/shama/voxel-creature",
+        "voxel-creature": "0.1.0",
         "inherits": "~2.0.0"
     },
     "devDependencies": {
